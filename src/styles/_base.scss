@@ -42,3 +42,18 @@ a img {
 sup, sub {
     line-height: 0;
 }
+
+.author {
+  width: 160px;
+  height: 160px;
+  margin: auto;
+  border: 3px solid #fff;
+  border-radius: 160px;
+
+  img {
+    width: 154px;
+    height: 154px;
+    border-radius: 154px;
+    margin-top: 3px;
+  }
+}

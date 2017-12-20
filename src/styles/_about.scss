@@ -9,6 +9,11 @@
 
 .tech {
   margin: 10px;
+  flex: 1;
+}
+
+.love {
+  color: red;
 }
 
 .user {
@@ -20,6 +25,9 @@
   justify-content: space-between;
   p {
     font-size: 16px;
+  }
+  img {
+    height: 85px;
   }
   @media only screen and (min-width: $cut) {
     flex-wrap: nowrap;
