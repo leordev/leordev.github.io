@@ -1,12 +1,12 @@
 # Site settings
-title: LEORDEV
+title: Leo Ribeiro
 description: My resumed portfolio and projects
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "leordev.github.io"
 
 # User settings
 username: Leo Ribeiro
-user_description: Hello, I'm Leo! I have a huge passion to learn any new technology related to software engineering, seriously, ANYTHING! I code since I was 13 and now I'm 27, father of a boy and happily married to my wife, living in Fort Lauderdale, Florida. My dream is that, one day, I will help a lot of people around the world with my coding skills. 
+user_description: Hello, I'm Leo! I have a huge passion to learn any new technology related to software engineering, seriously, ANYTHING! I code since I was 13 and now I'm 27, father of a boy and happily married to my wife, living in Fort Lauderdale, Florida. My dream is that, one day, I will help a lot of people around the world with my coding skills.
 user_title: Software Engineer
 email: leordev@gmail.com
 twitter_username: leordev
