@@ -67,6 +67,37 @@
   }
 }
 
+.playground-links {
+
+  list-style: none;
+
+  li {
+    padding: 8px;
+  }
+
+  a {
+    color: $main;
+    text-decoration: none;
+    transition: color 0.3s ease-out,
+                background-color 0.3s ease-out,
+                border-color 0.3s ease-out;
+
+    &:hover {
+      color: $purple;
+      transition: color 0.3s ease-in,
+                  background-color 0.3s ease-in,
+                  border-color 0.3s ease-in;
+    }
+    &:active {
+      color: $purple;
+      transition: color 0.3s ease-in,
+                  background-color 0.3s ease-in,
+                  border-color 0.3s ease-in;
+    }
+  }
+
+}
+
 .project-link {
   display: block;
   width: 100px;
@@ -100,3 +131,4 @@
                 border-color 0.3s ease-in;
   }
 }
+
